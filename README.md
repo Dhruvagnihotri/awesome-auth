@@ -179,6 +179,7 @@
 ## AI Agent Auth
 
 - [Arcade](https://github.com/ArcadeAI/arcade-ai) - Tool-calling platform with user approvals and authenticated actions for AI agents.
+- [authgent](https://github.com/authgent/authgent) - Self-hosted, open-source OAuth 2.1 identity provider for AI agents with RFC 8693 token exchange, DPoP, and multi-hop delegation chains; also ships a CLI that grades MCP servers' OAuth conformance.
 - [authsome](https://github.com/agentrhq/authsome) - Local-first credential broker for AI agents with an encrypted local vault and HTTPS proxy injection; no hosted service required.
 - [Composio](https://github.com/ComposioHQ/composio) - Hosted integration platform with managed OAuth and tool calling for 1000+ apps.
 - [Nango](https://github.com/NangoHQ/nango) - Open-source OAuth and API key handling for 700+ APIs with token refresh and a unified API for agent workloads.
